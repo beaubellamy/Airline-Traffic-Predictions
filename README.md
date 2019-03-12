@@ -1,6 +1,8 @@
 # Airline-Traffic-Predictions
 
-After applying for a Data Scientist role at Qantas, they requested applicants complete the following task to advance to the next stage of the interview process.
+After applying for a Data Scientist role at Qantas, they requested applicants complete a brief data science task to advance to the next stage of the interview process.
+
+The task description and process of evaluation were:
 
 # Excercise
 
